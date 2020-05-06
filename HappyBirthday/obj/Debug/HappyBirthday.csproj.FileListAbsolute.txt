@@ -1,0 +1,7 @@
+C:\GitHubProject\HappyBirthday\HappyBirthday\bin\Debug\HappyBirthday.exe.config
+C:\GitHubProject\HappyBirthday\HappyBirthday\bin\Debug\HappyBirthday.exe
+C:\GitHubProject\HappyBirthday\HappyBirthday\bin\Debug\HappyBirthday.pdb
+C:\GitHubProject\HappyBirthday\HappyBirthday\obj\Debug\HappyBirthday.csprojAssemblyReference.cache
+C:\GitHubProject\HappyBirthday\HappyBirthday\obj\Debug\HappyBirthday.csproj.CoreCompileInputs.cache
+C:\GitHubProject\HappyBirthday\HappyBirthday\obj\Debug\HappyBirthday.exe
+C:\GitHubProject\HappyBirthday\HappyBirthday\obj\Debug\HappyBirthday.pdb
