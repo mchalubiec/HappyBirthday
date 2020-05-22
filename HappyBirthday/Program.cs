@@ -8,6 +8,7 @@ namespace HappyBirthday
 {
     public class Program
     {
+ 	// why static?
         // color of regular text
         static void writeText(string text)
         {
