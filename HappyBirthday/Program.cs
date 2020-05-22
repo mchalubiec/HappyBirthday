@@ -8,7 +8,8 @@ namespace HappyBirthday
 {
     public class Program
     {
-        // color of regular text
+        // color of regular tex
+	// why static?
         static void writeText(string text)
         {
             Console.ForegroundColor = ConsoleColor.White;
